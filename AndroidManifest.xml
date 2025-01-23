@@ -1,0 +1,2 @@
+//tambah permision di androidmanifest.xml
+<uses-permission android:name="android.permission.BODY_SENSORS" />
